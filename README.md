@@ -1,4 +1,4 @@
-# IamDavid2000.github.io
+# IamDavid.github.io
 <img src=IMG_1266.jpeg alt="David Photo" align="right" width="30%"/>
 
 
