@@ -1,6 +1,6 @@
 # IamDavid.github.io
-<img src="![image]![image](https://github.com/IamDavid2000/IamDavid.github.io/assets/162402848/87ff9880-4cde-4e80-9e65-5ac6438db5d2)
- " alt="RPB Photo" align="right" width="30%"/>
+<img src="https://Iamdavid.github.io/IamDavid2000/IamDavid.github.io/assets/162402848/87ff9880-4cde-4e80-9e65-5ac6438db5d2)
+ " alt="David Photo" align="right" width="30%"/>
 
 
 # _David R Hemenway_
