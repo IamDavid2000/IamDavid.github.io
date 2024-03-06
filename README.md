@@ -9,10 +9,8 @@
 > Computer Solutions Developer with decades of experience in Data Science and Big Data Analytics, Natural language Processing, Document Publishing Systems, and Web Community Development
 
 # Education
-* SB Chemistry - Massachusetts Institute of Technology
-* PhD Pathobiology - Johns Hopkins University
-* NIH Post Doctoral Fellow - University of Wisconsin at Madison
-* MS Applied Mathematics and Computer Science - Indiana University - South Bend
+* Kingman High School - Kingman, Arizona
+* Payap University - Chiang Mai, Thailand
 
 # Experience
 * Summer Intern - New York State Rabies Screening Laboratory
