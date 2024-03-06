@@ -1,5 +1,6 @@
 # IamDavid.github.io
-<img src="http://rbatzing.github.io/img/bob5.png" alt="RPB Photo" align="right" width="30%"/>
+![image](https://github.com/IamDavid2000/IamDavid.github.io/assets/162402848/3e3f2742-516f-4afa-b266-9f5c9a6c2dae) alt="RPB Photo" align="right" width="30%"/> 
+
 
 # _David R Hemenway_
 > _Praeceptor Emeritus_<br />
