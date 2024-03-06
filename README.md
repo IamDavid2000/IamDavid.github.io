@@ -10,7 +10,7 @@
 
 # Education
 * Kingman High School - Kingman, Arizona
-* Payap University - Chiang Mai, Thailand
+* Payap University International College - Chiang Mai, Thailand
 
 # Experience
 * Summer Intern - New York State Rabies Screening Laboratory
