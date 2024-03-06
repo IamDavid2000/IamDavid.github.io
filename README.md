@@ -1,5 +1,5 @@
 # IamDavid.github.io
-<img src="https://Iamdavid.github.io/IMG_2825.jpeg" alt="David Photo" align="right" width="30%"/>
+<img src="https://Iamdavid.github.io/IMG_1348.jpeg" alt="David Photo" align="right" width="30%"/>
 
 
 # _David R Hemenway_
